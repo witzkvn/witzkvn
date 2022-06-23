@@ -2,7 +2,7 @@
 <p>🎯 Je suis actuellement en recherche d'alternance pour devenir développeur web et mobile avancé en Javascript, basé à Strasbourg, Alsace, France.</p>
 <p>🚀 Je suis en constante recherche de nouveaux challenges. J'adore me former et apprendre de nouvelles choses. Après plusieurs expériences professionnelles, j'ai découvert que le web (principalement le Front End) correspondait à ma personnalité : <b>rigueur, logique et créativité.</b></p>
 
-
+<br />
 <h2>📢 A propos</h2>
 
 <p>Je me forme en autodidacte sur les technologies du web depuis plusieurs années, et j'ai su me construire une base solide en HTML, CSS et Javascript. Ancien professeur et passionné de pédagogie, j'ai créé de nombreux tutoriels pour débutants sous le pseudonyme de Wikode Medias.</p>
@@ -21,6 +21,7 @@
 
 <br />
 <h2>⚡ Technologies</h2>
+<div align="center">
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
@@ -38,7 +39,10 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![Atlassian](https://img.shields.io/badge/-Atlassian-blue?style=flat-square&logo=atlassian)
+    
+</div>
 
+<br />
 <h2>💻 Parcours professionnel</h2>
 <ul>
     <li><b>2022 (3 mois) :</b> Développeur Back-end .NET Core à <a href="https://www.e-i.com/fr/index.html" alt="Euro-Informations Développements">Euro-Informations Développements</a></li>
@@ -46,12 +50,14 @@
     <li><b>2017-2019 (2 ans) :</b> Professeur titulaire de Physique-Chimie à <a href="https://www.education.gouv.fr/" alt="Education Nationale">Education Nationale</a></li>
 </ul>
 
+<br />
 <h2>🎓 Parcours scolaire</h2>
 <ul>
     <li><b>2021 (3 mois) :</b> Formation accélérée en POEI comme Développeur Back-end .NET Core à <a href="https://www.wildcodeschool.com/fr-FR" alt="Wild Code School">Wild Code School</a></li>
     <li><b>2017 :</b> Master MEEF second degré, enseigner la Physique-Chimie - Mention Bien - à <a href="https://chimie.unistra.fr/" alt="Faculté de Chimie de Strasbourg">Faculté de Chimie de Strasbourg</a></li>
 </ul>
 
+<br />
 <h2>📬 Me contacter</h2>
 <p>N'hésitez pas à me contacter pour en savoir plus à mon sujet, je serais ravi d'échanger avec vous !</p>
 
