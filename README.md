@@ -5,9 +5,6 @@
 <p>🚀 Je suis en constante recherche de nouveaux challenges. J'adore me former et apprendre de nouvelles choses. Après plusieurs expériences professionnelles, j'ai découvert que le web (principalement le Front End) correspondait à ma personnalité : <b>rigueur, logique et créativité.</b></p>
 <br />
 
----
-
-<br />
 
 <h2>📢 A propos</h2>
 
@@ -25,10 +22,6 @@
 [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCmPeGGsMsg1WwcstKoG5eIQ)
 
 </div>
-
-<br />
-
----
 
 <br />
 <h2>⚡ Technologies</h2>
@@ -52,10 +45,6 @@
 ![Atlassian](https://img.shields.io/badge/-Atlassian-blue?style=flat-square&logo=atlassian)
 
 <br />
-
----
-
-<br />
 <h2>💻 Parcours professionnel</h2>
 <ul>
     <li><b>2022 (3 mois) :</b> Développeur Back-end .NET Core à <a href="https://www.e-i.com/fr/index.html" alt="Euro-Informations Développements">Euro-Informations Développements</a></li>
@@ -64,19 +53,11 @@
 </ul>
 
 <br />
-
----
-
-<br />
 <h2>🎓 Parcours scolaire</h2>
 <ul>
     <li><b>2021 (3 mois) :</b> Formation accélérée en POEI comme Développeur Back-end .NET Core à <a href="https://www.wildcodeschool.com/fr-FR" alt="Wild Code School">Wild Code School</a></li>
     <li><b>2017 :</b> Master MEEF second degré, enseigner la Physique-Chimie - Mention Bien - à <a href="https://chimie.unistra.fr/" alt="Faculté de Chimie de Strasbourg">Faculté de Chimie de Strasbourg</a></li>
 </ul>
-
-<br />
-
----
 
 <br />
 <h2>📬 Me contacter</h2>
