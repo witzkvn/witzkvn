@@ -1,5 +1,5 @@
 <h1>Bonjour ! 👋</h1>
-<p>🎯 Je suis actuellement en recherche d'alternance pour devenir développeur web et mobile avancé en Javascript, basé à Strasbourg, Alsace, France.</p>
+<p>🎯 Je vais débuter une année d'alternance à partir de septembre pour devenir développeur web et mobile avancé en Javascript, basé à Strasbourg, Alsace, France.</p>
 <p>🚀 Je suis en constante recherche de nouveaux challenges. J'adore me former et apprendre de nouvelles choses. Après plusieurs expériences professionnelles, j'ai découvert que le web (principalement le Front End) correspondait à ma personnalité : <b>rigueur, logique et créativité.</b></p>
 
 <h2>📢 A propos</h2>
