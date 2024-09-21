@@ -49,6 +49,7 @@
 
 <h2>💻 Parcours professionnel</h2>
 <ul>
+    <li><b>2023 (en cours) :</b> Développeur Fullstack Typescript / C# à <a href="https://citiz.coop/" alt="France Autopartgae - Citiz">France Autopartgae - Citiz</a></li>
     <li><b>2023 (1 an) :</b> Développeur Fullstack Typescript à <a href="https://kit-rh.com/" alt="Keep In Touch RH">Keep In Touch RH</a></li>
     <li><b>2022 (4 mois) :</b> Développeur Back-end .NET Core à <a href="https://www.e-i.com/fr/index.html" alt="Euro-Informations Développements">Euro-Informations Développements</a></li>
     <li><b>2019-2022 (2,5 ans) :</b> Technicien d'analyse en pollution atmosphérique et pôle marketing à <a href="https://shop.kudzuscience.com/" alt="Kudzu Science">Kudzu Science</a></li>
