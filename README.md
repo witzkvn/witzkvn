@@ -1,9 +1,11 @@
 <h1>Bonjour ! 👋</h1>
-<p>🎯 Je suis développeur Fullstack Typescript, basé à Strasbourg - Alsace - France.</p>
+<p>🎯 Je suis développeur Fullstack Typescript / C#, basé à Strasbourg - Alsace - France.</p>
 <p>🚀 Je suis en constante recherche de nouveaux challenges. J'adore me former et apprendre de nouvelles compétences. Après plusieurs expériences professionnelles, j'ai découvert que le développement web correspondait à ma personnalité : <b>rigueur, logique et créativité.</b></p>
 
 <h2>📢 A propos</h2>
 
+<p>Après une reconversion en alternance pour passer le titre de Concepteur Développeur d'Applications (BAC+3/4), j'ai eu la chance de développer un projet from scratch dans une startup. Une application web permettant de piloter les processus de recrutements. J'ai pu travailler sur ce projet en tant que développeur fullstack avec React / Typescript et NodeJS / Express.</p>
+<p>Ensuite, j'ai rejoins une entreprise nationale dans le domaine de l'autopartage. Là encore, j'ai pu travailler comme développeur fullstack avec les technologies React / Typescript et C# / .NET.</p>
 <p>Je me forme en autodidacte sur les technologies du web depuis plusieurs années, et j'ai su me construire une base solide en HTML, CSS et Javascript. Ancien professeur et passionné de pédagogie, j'ai créé de nombreux tutoriels pour débutants sous le pseudonyme de Wikode Medias sur Youtube.</p>
 
 
