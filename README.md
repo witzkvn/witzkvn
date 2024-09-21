@@ -5,7 +5,7 @@
 <h2>📢 A propos</h2>
 
 <p>Après une reconversion en alternance pour passer le titre de Concepteur Développeur d'Applications (BAC+3/4), j'ai eu la chance de développer un projet from scratch dans une startup. Une application web permettant de piloter les processus de recrutements. J'ai pu travailler sur ce projet en tant que développeur fullstack avec React / Typescript et NodeJS / Express.</p>
-<p>Ensuite, j'ai rejoins une entreprise nationale dans le domaine de l'autopartage. Là encore, j'ai pu travailler comme développeur fullstack avec les technologies React / Typescript et C# / .NET.</p>
+<p>Ensuite, j'ai eu la chance d'intégrer une entreprise nationale dans le domaine de l'autopartage. Là encore, j'ai pu travailler comme développeur fullstack avec les technologies React / Typescript et C# / .NET. Au quotidien, j'ai pu travailler sur le backoffice (pour les opérateurs et le support), la webapp (à destination des clients), ainsi que plusieurs backend permettant de faire fonctionner le tout. Cette expérience à été la plus riche d'un point de vue technique et challenge.</p>
 <p>Je me forme en autodidacte sur les technologies du web depuis plusieurs années, et j'ai su me construire une base solide en HTML, CSS et Javascript. Ancien professeur et passionné de pédagogie, j'ai créé de nombreux tutoriels pour débutants sous le pseudonyme de Wikode Medias sur Youtube.</p>
 
 
@@ -49,7 +49,7 @@
 
 <h2>💻 Parcours professionnel</h2>
 <ul>
-    <li><b>2023 (en cours) :</b> Développeur Fullstack Typescript / C# à <a href="https://citiz.coop/" alt="France Autopartgae - Citiz">France Autopartgae - Citiz</a></li>
+    <li><b>2023 (en cours) :</b> Développeur Fullstack Typescript / C# à <a href="https://citiz.coop/" alt="France Autopartage - Citiz">France Autopartage - Citiz</a></li>
     <li><b>2023 (1 an) :</b> Développeur Fullstack Typescript à <a href="https://kit-rh.com/" alt="Keep In Touch RH">Keep In Touch RH</a></li>
     <li><b>2022 (4 mois) :</b> Développeur Back-end .NET Core à <a href="https://www.e-i.com/fr/index.html" alt="Euro-Informations Développements">Euro-Informations Développements</a></li>
     <li><b>2019-2022 (2,5 ans) :</b> Technicien d'analyse en pollution atmosphérique et pôle marketing à <a href="https://shop.kudzuscience.com/" alt="Kudzu Science">Kudzu Science</a></li>
